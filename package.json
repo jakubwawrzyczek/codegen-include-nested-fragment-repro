@@ -1,0 +1,14 @@
+{
+  "name": "include-fragment-spread-repro",
+  "private": true,
+  "scripts": { "generate": "graphql-codegen" },
+  "devDependencies": {
+    "@graphql-codegen/cli": "5.0.5",
+    "@graphql-codegen/typescript": "6.1.2",
+    "@graphql-codegen/typescript-operations": "6.1.10",
+    "@graphql-codegen/near-operation-file-preset": "5.2.3-alpha-20261010222551-b02626699f7b8d8f5e44ba5e0e7e38c9e15bbc3f",
+    "graphql": "16.9.0",
+    "graphql-tag": "2.12.6",
+    "typescript": "5.6.3"
+  }
+}

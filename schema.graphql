@@ -1,0 +1,7 @@
+type Markdown {
+  markdown: String!
+}
+
+type Query {
+  thing(flag: Boolean!): Markdown!
+}
